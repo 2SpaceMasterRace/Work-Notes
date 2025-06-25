@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c1a5b009610bfd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe54b59079bb4de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc98d5ccae569411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event-Materials/event-prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "event-prep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bd63189b53e34b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3093a24928de6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2a4edfa00053b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89dce1293afca6d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40db017d0a682cbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "231e0450afb9d351",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d9372e451c86a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f247363e173a4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1526b7298beb1d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b7f440999ddfab14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e1fe9a31fc2faa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "fc98d5ccae569411",
+  "lastOpenFiles": [
+    "Conference-Talks/AndyRay_ProgrammableHardware.md",
+    "HardCaml-Paper.md",
+    "Tutorials/Compiling-to-FPGAs.md",
+    "mentorship.ai.md",
+    "Tutorials/Hardcaml-Docs.md",
+    "Tutorials/Prerequisites.md",
+    "Tutorials/Hardcaml-programs.md",
+    "Tutorials",
+    "Blogs/WhyHardcaml.md",
+    "Blogs/AdventOfHardcaml.md",
+    "Blogs/arty-a7-arch.md",
+    "Conference-Talks/AndyRay_JSTalk.md",
+    "Screenshots/Pasted Image 20250624182754_091.png",
+    "Excalidraw/FIRfilter.excalidraw.md",
+    "Event-Materials/event-prep.md",
+    "Conference-Talks/RachitNigam_FOSSiTalk.md",
+    "Screenshots/Pasted image 20250624154404.png",
+    "Screenshots/Pasted image 20250624154325.png",
+    "Screenshots/Pasted image 20250624154230.png",
+    "Screenshots/Pasted image 20250624140716.png",
+    "wasm-softcore.md",
+    "Screenshots/Pasted image 20250623190952.png",
+    "Screenshots/Pasted image 20250623190912.png",
+    "Excalidraw/4inputLUT.excalidraw.md",
+    "Excalidraw/FPGAarch.excalidraw.md",
+    "Excalidraw/statemachineexpanded.excalidraw.md",
+    "Screenshots/Pasted Image 20250623180524_758.png",
+    "Screenshots/Pasted Image 20250623180329_695.png",
+    "Excalidraw/eventstatemachine.excalidraw.md",
+    "Event-Materials",
+    "Excalidraw/completehardcaml.excalidraw.md",
+    "Screenshots/Pasted Image 20250622190309_728.png",
+    "Screenshots",
+    "Excalidraw/cyclesimapi.excalidraw.md",
+    "Excalidraw/apiderivied.excalidraw.md",
+    "Excalidraw/ehdlrecipe.excalidraw.md",
+    "Blogs",
+    "Conference-Talks",
+    "Excalidraw/addergraph.excalidraw.md",
+    "Excalidraw/signalstruct.excalidraw.md",
+    "Excalidraw/blocks.excalidraw.md",
+    "life-plans",
+    "career-plans",
+    "Excalidraw"
+  ]
+}
