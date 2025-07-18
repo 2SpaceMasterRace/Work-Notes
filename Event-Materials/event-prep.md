@@ -13,14 +13,12 @@ The talk will also (hopefully) feature practical demonstrations using the Arty A
 
 **Date & Time**:
 
- 4:30PM to 5:15PM -- Thursday 26th June, 2025
-
-
----
-
+4:30PM to 5:15PM -- Thursday 26th June, 2025
 
 35 Minute Talk
 	- 20 minute into eHDl design, FPGA basics
 	- 15 minute into HardCaml syntax and such 
 	
 10 Minute Demo
+
+---

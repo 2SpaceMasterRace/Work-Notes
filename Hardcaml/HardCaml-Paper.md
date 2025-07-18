@@ -474,5 +474,12 @@ Hardcaml has built-in support for constructing memories, which are inferrable by
 
 ---
 
+## The simulation algorithm
 
+Cyclesim performs the following steps when `cycle` is called.
 
+1. Based on the current value of the inputs, update (in the correct order) all the combinational nodes in the circuit. Nodes which read a register or memory read port use their current value.
+    
+2. Update all registers and memory writes. The previous step will have defined the new values to load.
+    
+3. Perform a final update of the (subset of) combinational nodes that depend on the new register/memory values.
