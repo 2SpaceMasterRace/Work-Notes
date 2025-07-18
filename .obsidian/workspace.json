@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardcaml/Cheatsheet.md",
+                "file": "Blogs/WhyHardcaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "WhyHardcaml"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "231e0450afb9d351",
@@ -173,6 +172,9 @@
   },
   "active": "7ae0415097dab16a",
   "lastOpenFiles": [
+    "Blogs/arty-a7-arch.md",
+    "Hardcaml/Cheatsheet.md",
+    "Blogs/AdventOfHardcaml.md",
     "Hardcaml/HardCaml-Paper.md",
     "Hardcaml/Tutorial.md",
     "Tutorials/Compiling-to-FPGAs.md",
@@ -181,16 +183,13 @@
     "Tutorials/Hardcaml-programs.md",
     "Event-Materials/event-prep.md",
     "Tutorials/Prerequisites.md",
-    "Hardcaml/Cheatsheet.md",
     "HardcamlCryptoLibrary/AES-128.md",
     "HardcamlCryptoLibrary/DesignOfHCL.md",
     "WASM-Interpreter/wasm-internals.md",
     "Conference-Talks/RachitNigam_FOSSiTalk.md",
     "Conference-Talks/AndyRay_ProgrammableHardware.md",
     "Conference-Talks/AndyRay_JSTalk.md",
-    "Blogs/AdventOfHardcaml.md",
     "Blogs/WhyHardcaml.md",
-    "Blogs/arty-a7-arch.md",
     "mentorship.ai.md",
     "Excalidraw/4inputLUT.excalidraw.md",
     "HardcamlCryptoLibrary",
